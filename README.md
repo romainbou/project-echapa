@@ -70,7 +70,6 @@ echapa port=9999
 TODO
 ----
 
-* Automatic port selection
 * Set up log files
 * Support other PHP web servers (nginx, lighttpd)
 * Some kind of volatile configuration through command line parameters
