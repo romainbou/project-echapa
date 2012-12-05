@@ -56,6 +56,13 @@ echapa OUT - KTHXBYE
 
 > Echapa will just reload the configuration if the server was already started at the beginning.
 
+Options
+-------
+You can choose the port to listen by passing an arguement like this :
+echapa p=9999
+or
+echapa port=9999
+
 TODO
 ----
 
